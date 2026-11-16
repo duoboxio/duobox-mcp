@@ -191,7 +191,7 @@ The server also publishes four prompts with the step by step of each task (`mail
 | Protocol | The 2026 version, and `2025-11-25` too. |
 | Registry | [`io.duobox/mail`](https://registry.modelcontextprotocol.io/v0/servers?search=io.duobox/mail) in the official MCP registry |
 
-This repository holds the server's public listing (`server.json`, `.mcp.json`) and its docs. The server itself runs on Duobox's infrastructure.
+This repository holds the server's public listing (`server.json`, `.mcp.json`), the ChatGPT plugin package (`chatgpt/`: `plugin.json`, `mcp.json` and the icons, zipped as-is for the OpenAI plugin dashboard) and its docs. The server itself runs on Duobox's infrastructure.
 
 ## You need a Duobox account
 
