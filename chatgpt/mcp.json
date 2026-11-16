@@ -3,7 +3,15 @@
   "mcpServers": {
     "duobox": {
       "type": "streamable-http",
-      "url": "https://mcp.duobox.io/v1/mcp"
+      "url": "https://mcp.duobox.io/v1/mcp",
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "type": "oauth",
+            "client": { "mode": "cimd" }
+          }
+        }
+      }
     }
   }
 }

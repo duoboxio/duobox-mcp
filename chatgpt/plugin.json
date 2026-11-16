@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "duobox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Business email on your domain for AI agents: read, draft and send with the permissions you choose.",
   "author": {
     "name": "Duobox",
