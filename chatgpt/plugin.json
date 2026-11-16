@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "duobox",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Business email on your domain for AI agents: read, draft and send with the permissions you choose.",
   "author": {
     "name": "Duobox",
@@ -97,7 +97,8 @@
           ]
         },
         "commerce": false,
-        "commerce_description": "Duobox does not sell products or take payments inside ChatGPT."
+        "commerce_description": "Duobox does not sell products or take payments inside ChatGPT.",
+        "demo_recording_url": "https://cdn.jsdelivr.net/gh/duoboxio/duobox-mcp@7798f8d/chatgpt/demo.mp4"
       },
       "publication": {
         "countries": [],
