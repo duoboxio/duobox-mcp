@@ -1,0 +1,15 @@
+{
+  "name": "duobox",
+  "version": "1.0.1",
+  "description": "Business email on your domain for AI agents: read, draft and send with the permissions you choose.",
+  "author": {
+    "name": "Duobox",
+    "email": "hola@duobox.io"
+  },
+  "homepage": "https://duobox.io/en/mcp",
+  "repository": "https://github.com/duoboxio/duobox-mcp",
+  "license": "MIT",
+  "logo": "./assets/duobox-icon.svg",
+  "keywords": ["email", "business-email", "custom-domain", "shared-inbox", "mcp"],
+  "mcpServers": "./.mcp.json"
+}
